@@ -19,7 +19,7 @@
 - :globe_with_meridians: HTML | CSS | JavaScript | Bootstrap | PHP
 - :open_file_folder: MySQL | MariaDB
 - :hammer: CakePHP | Slim Framework 
-- :wrench: Git | Markdown | Meistertask | Excel | Word | SublimeText 3 | Cmder | GitKraken | et plus encore...
+- :wrench: Git | Markdown | Meistertask | Excel | Word | SublimeText 3 | Visual Studio Code | Cmder | GitKraken | et plus encore...
 
 
 ![Eurym3d0n Github stats](https://github-readme-stats.vercel.app/api?username=Eurym3d0n&count_private=true&show_icons=true)
