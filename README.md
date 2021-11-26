@@ -9,7 +9,8 @@
 
 <h3>👨 À propos de moi</h3>
 
-- :pencil: Je me prénomme Jessy, j'ai 25 ans, je suis passionnée d'alpinisme, météorologie, science, informatique, astronomie. 
+- :pencil: Je me prénomme Jessy, j'ai 26 ans, je suis passionnée d'alpinisme, météorologie, science, informatique, astronomie. 
+- :computer: Technicien et Agent de maîtrise, Développeur et Responsable de développement informatique
 - :muscle: Taekwondo | Randonnée | Vélo
 
 <h3>🛠 Tech Stack</h3>
