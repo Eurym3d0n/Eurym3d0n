@@ -9,16 +9,16 @@
 
 <h3>👨 À propos de moi</h3>
 
-- :pencil: Je me prénomme Jessy, j'ai 27 ans, je suis passionnée d'alpinisme, météorologie, science, informatique, astronomie. 
+- :pencil: Je me prénomme Jessy, j'ai 29 ans, je suis passionnée d'alpinisme, météorologie, science, informatique, astronomie. 
 - :computer: Technicien et Agent de maîtrise, Développeur et Responsable de développement informatique
 - :muscle: Taekwondo | Randonnée | Vélo
 
 <h3>🛠 Tech Stack</h3>
 
 - :computer: LUA
-- :globe_with_meridians: HTML | CSS | JavaScript | Bootstrap | PHP
+- :globe_with_meridians: HTML | CSS | JavaScript | Bootstrap | PHP | TypeScript | Vue
 - :open_file_folder: MySQL | MariaDB
-- :hammer: CakePHP | Slim Framework 
+- :hammer: CakePHP | Slim Framework | NuxtJS
 - :wrench: Git | Markdown | Meistertask | Excel | Word | SublimeText 3 | Visual Studio Code | Cmder | GitKraken | et plus encore...
 
 
